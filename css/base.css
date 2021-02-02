@@ -272,3 +272,16 @@ a:focus {
 	max-height: 600px;
 	height: 80%;
   }
+
+
+  .image{
+	position: absolute;
+	top:10%;
+  left:30%;
+	/* margin:auto;
+	/* display: flex;
+	justify-content: center; */
+	z-index:-100;
+	/* max-width: 50%; */
+	width: 70%;
+}
